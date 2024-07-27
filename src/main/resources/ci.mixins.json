@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.ci.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "ci.refmap.json",
+  "mixins": [
+    "AbstractArrowMixin",
+    "BootsMixin",
+    "BowMixin",
+    "ChannelingEnchantmentMixin",
+    "CrossBowMixin",
+    "LivingMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

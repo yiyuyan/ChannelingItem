@@ -1,0 +1,4 @@
+{
+  "commands.ci.empty": "Main item/Off main item is empty.",
+  "commands.ci.cannot_xp": "Requires at least {x} experience to be able to use this command."
+}
